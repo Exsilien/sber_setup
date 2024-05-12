@@ -1,4 +1,4 @@
 #!/bin/bash
 
-curl -fsSL https://rawgit.com/kube/42homebrew/master/install.sh | zs
+curl -fsSL https://rawgit.com/kube/42homebrew/master/install.sh | zsh
 reset
