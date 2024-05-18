@@ -202,5 +202,6 @@
     "C_Cpp.intelliSenseEngine": "disabled",
     "cmake.showOptionsMovedNotification": false,
     "window.zoomLevel": 2,
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "editor.tabSize": 2,
 }
